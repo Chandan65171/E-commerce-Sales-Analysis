@@ -5,9 +5,9 @@ Here are some key points to justify your e-commerce sales analysis:
 ➡️**Project Overview:**
 
 - Analyzed hospitality domain data to identify trends, patterns, and insights.
-- 
+  
 - Objective: To enhance decision-making processes and optimize operations within the hospitality industry.
-- 
+  
 - Utilized Power BI as the primary tool for data analysis and visualization.
 
 ➡️**Comprehensive KPIs:**
