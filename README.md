@@ -2,7 +2,7 @@
 Here are some key points to justify your e-commerce sales analysis:
 
 ➡️ Comprehensive KPIs:
-  --Total Sales: Provides an overall picture of revenue generation.
+  ⚫Total Sales: Provides an overall picture of revenue generation.
   -- Profit and Profit Margin: Highlights the financial health and efficiency of sales operations.
   -- Total Orders and Quantity: Indicates customer demand and sales volume.
 
