@@ -1,4 +1,4 @@
-# E-commerce-Sales-Analysis-
+# E-commerce-Sales-Analysis
 
 Here are some key points to justify your e-commerce sales analysis:
 
